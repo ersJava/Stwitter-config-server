@@ -1,2 +1,1 @@
-# Stwitter-config-server
-Switter configuration server
+# Switter configuration server
